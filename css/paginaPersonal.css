@@ -205,8 +205,10 @@ body {
   height: 100px;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(var(--imgInstagram));
+  background-image: url(var(--imgInstagram))
 }
+
+
 .redes-sociales .icono-gmail {
   background-size: 30px;
   float: right;
