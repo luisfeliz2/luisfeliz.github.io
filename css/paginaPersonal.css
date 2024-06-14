@@ -12,7 +12,7 @@
 
 :root .tema-claro {
   --color1:white;
-  --color2:deepskyblue;
+  --color2:rgb(7 0 255);
   --imgPersonal:url("https://cdn.pixabay.com/photo/2019/08/06/00/46/black-and-white-4387130_1280.jpg");
   --tema-oscuro:false;
 }
@@ -225,3 +225,7 @@ body {
 }
 
 /*# sourceMappingURL=paginaPersonal.css.map */
+
+footer{
+  text-align: center;
+}
